@@ -70,8 +70,6 @@ La inițializarea unei hărți EEPROM noi, valorile implicite sunt 100,0 MHz și
 
 Deschide `RadioFM_VFD_Ver2.bas` în BASCOM-AVR și compilează pentru **ATmega88** (`m88adef.dat`) la **8 MHz**. Firmware-ul folosește oscilatorul RC intern; fuse-ul CKDIV8 trebuie să fie neprogramat, iar PB6/PB7 sunt folosiți ca pini I/O pentru PT6302.
 
-**Notă:** fișierul `RadioFM_VFD_Ver2.cfg` prezent în repository indică încă `2313def.dat` și 4 MHz. Verifică și corectează configurația IDE la ATmega88/8 MHz înainte de compilare; setările din sursa BASCOM sunt cele corespunzătoare hardware-ului descris aici.
-
 ## Licență
 
 MIT LICENSE

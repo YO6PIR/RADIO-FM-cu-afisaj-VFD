@@ -1,4 +1,5 @@
 # Radio FM cu afișaj VFD
+Visit: https://qsl.net/yo6pir/PT6302.html
 
 Firmware BASCOM-AVR pentru un radio FM construit în jurul unui **ATmega88**, al unui tuner TEA5767, al unui afișaj VFD controlat de PT6302 și al unui ceas RTC ISL1208. Proiectul oferă afișarea frecvenței și a ceasului, reglarea volumului, două memorii de posturi și nume de posturi afișate ca RDS.
 

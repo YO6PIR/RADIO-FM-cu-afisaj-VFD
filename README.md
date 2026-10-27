@@ -74,4 +74,4 @@ Deschide `RadioFM_VFD_Ver2.bas` în BASCOM-AVR și compilează pentru **ATmega88
 
 ## Licență
 
-Sursa menționează copyright YO6PIR (2020). Repository-ul nu conține un fișier `LICENSE`; termenii de reutilizare trebuie stabiliți de autor înainte de distribuirea proiectului ca software open-source.
+MIT LICENSE
